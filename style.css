@@ -1,0 +1,12 @@
+.form-check-label{
+    width: 200px;
+}
+.fa-pen{
+    margin-right: 15px;
+}
+.fa-pen:hover{
+    cursor: pointer;
+}
+.my-border{
+    border: 2px solib rgb(123, 123, 245);
+}
